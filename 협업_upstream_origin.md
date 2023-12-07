@@ -68,7 +68,7 @@
          To https://github.com/javamoonjong/project_fork.git
          * [new branch]      javamoonjong -> javamoonjong
        
-    10. Pull Request 생성하기
+    10. Pull Request 생성(create)하기
         - 포크한 깃 허브 저장소 : javamoonjong / project_fork
         가. Pull Request(풀요청) 클릭
         나. Compare & pull request(비교 및 풀요청) 클릭
@@ -79,7 +79,6 @@
         사. 완료 후 upstream 으로 이동된다. 
         아. 여기는 병합 완료된 upstream 으로 협조 요청한 원본 저장소이다.
         자. 원본 저장소(project)를 클릭 병합된 내용 확인한다.
-
          
 
 
