@@ -194,6 +194,7 @@ $git commit -m "viewtest03"
 
 
 
+
 4) 원격 저장소에 브랜치까지 함꼐 push합니다. git push 명령 뒤에 origin 브랜치 를 적어 주면 원격저장소(origin)에 새로운 브랜치를 push한다는 의미입니다.
 
 
